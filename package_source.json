@@ -5,7 +5,7 @@
     },
     [
         {
-            "Package_Source": "/default.json",
+            "Package_Source": "https://cdn.jsdelivr.net/gh/ChizaoProject/Packages@latest/default.json",
             "package": "default",
             "developer":"fly6022",
 	        "date":"2022-6-18",
